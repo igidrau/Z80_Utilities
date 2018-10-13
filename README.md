@@ -1,9 +1,9 @@
 # Z80_Utilities
 A set of utilities for z80 chips
 
-##ImgToZ80.py
+### ImgToZ80.py
 
-###FR
+##### FR
 Permet de créer un fichier .z80 à partir d'une image bichrome.
 
 Le programme est prévu pour les calculettes de la gamme TI83
@@ -18,7 +18,7 @@ python ImgToZ80.py <nom de votre image>
 
 PS : désolé pour le code dégueu :p
 
-###EN
+##### EN
 This program creates a .z80 file from a two colours image.
 
 It is intended for the TI83 series (TI83,83+,82-stats,82-advanced)
